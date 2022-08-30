@@ -19,11 +19,11 @@ Cleaning Data
 Exploring Data through Visualizations with Matplotlib
 
 ### machine learning classifier 
-1- naive_bayes
-2- Support Victor Machine
-3- LogisticRegression
-4- Decision Tree
-5- Ensemble Methods
+- naive_bayes
+- Support Victor Machine
+- LogisticRegression
+- Decision Tree
+- Ensemble Methods
 
 ### Valuation and  Model Evaluation Metrics
 - Grid Search
